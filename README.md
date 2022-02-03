@@ -1,2 +1,2 @@
 # authenctication-using-bcrypt
-Here I incorporated bcrypt to my secrets web application
+Here I incorporated bcrypt(A library to help you hash passwords) to my secrets web application
